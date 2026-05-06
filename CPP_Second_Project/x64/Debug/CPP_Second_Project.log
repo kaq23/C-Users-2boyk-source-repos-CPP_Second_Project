@@ -1,0 +1,8 @@
+﻿  CPP_Second_Project.cpp
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(88,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(95,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(145,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(149,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(150,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(185,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CPP_Second_Project.vcxproj -> C:\Users\2boyk\source\repos\CPP_Second_Project\x64\Debug\CPP_Second_Project.exe

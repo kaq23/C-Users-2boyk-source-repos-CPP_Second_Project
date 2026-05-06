@@ -1,0 +1,13 @@
+﻿  CPP_Second_Project.cpp
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(105,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(113,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(177,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(181,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(182,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2boyk\source\repos\CPP_Second_Project\CPP_Second_Project\CPP_Second_Project.cpp(237,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 248 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CPP_Second_Project.vcxproj -> C:\Users\2boyk\source\repos\CPP_Second_Project\x64\Release\CPP_Second_Project.exe
